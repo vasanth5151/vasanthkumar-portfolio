@@ -10,12 +10,12 @@
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.1",
-    "@vitejs/plugin-react": "^6.0.0",
-    "autoprefixer": "^10.4.27",
-    "postcss": "^8.5.8",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
     "tailwindcss": "^4.2.1",
-    "typescript": "~5.9.3",
-    "vite": "^8.0.0"
+    "typescript": "~5.7.2",
+    "vite": "^6.0.0"
   },
   "dependencies": {
     "framer-motion": "^12.36.0",

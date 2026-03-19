@@ -3,13 +3,13 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowUpRight } from 'lucide-react';
 
 
-const categories = ["All", "Fullstack", "SaaS (vibecoding)"];
+const categories = ["All", "frontend", "SaaS (vibecoding)"];
 
 const projectsData = [
     {
         id: 1,
-        title: "Project Management Tool",
-        category: "Fullstack",
+        title: "Project Management Tool (WORKING)",
+        category: "frontend",
         image: "https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=2000&auto=format&fit=crop",
         description: "A large-scale e-commerce platform with real-time inventory management and secure payment integration.",
         link: ""
@@ -32,11 +32,11 @@ const projectsData = [
     },
     {
         id: 4,
-        title: "Social Connect",
-        category: "Fullstack",
-        image: "https://images.unsplash.com/photo-1522542550221-31fd19255a7a?q=80&w=2000&auto=format&fit=crop",
-        description: "Scalable social media platform featuring real-time messaging, feed algorithms, and media sharing.",
-        link: ""
+        title: "react js portfolio",
+        category: "frontend",
+        image: "/projects/sathish.png",
+        description: "Scalable editor portfolio website design using react js",
+        link: "https://sathish1.netlify.app/"
     }
 ];
 
